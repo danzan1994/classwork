@@ -4,4 +4,9 @@
 # Authors   Erin Rizal @elrizal
 # Docs      http://git-scm.com/docs/gitignore
 # ===============================
- **/01-Activities/**/Solved/
+# !**/01-Activities/Unit-01-HTML-Git-CSS/**/Solved/
+# !**/01-Activities/Unit-02-CSS-Bootstrap/**/Solved/
+
+ *~
+.DS_Store
+*.code-workspace

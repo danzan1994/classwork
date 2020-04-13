@@ -4,6 +4,12 @@ Some of the most important factors influencing how well and how quickly you lear
 
 Our first third of the course is focused on the front-end, the things you see and interact with in the browser, like when you click a ‘login’ button and a box pops up. Front-end languages, techniques, and libraries are foundational to being a full-stack developer, and are areas you’ll continuously build on top of throughout the course.
 
+## Minimum Graduation Requirements: 
+- Miss no more than 3 classes
+- Have no more than 2 incomplete homeworks
+- Participate in all projects
+- Balance paid in full
+
 ## Project 1
 
 The bootcamp will be taxing, and having something you can look back on and be proud of early in the course helps keep motivation and morale high. It’s very possible to build a cool interactive web application in the first few weeks by developing the front-end yourself and leveraging other people’s servers and APIs. For example, Food Finder is a student-made app that helps you find recipes and Fourth and Lawn is another student-made app that helps you find parking at sporting events.
@@ -35,3 +41,4 @@ For a closer preview of what we explore in each unit of the bootcamp, dive into 
 * Activities you’ll complete and what skills they focus on
 * Common interview questions related to that week’s material
 * Helpful resources if you want to get ahead or gain more experience after the unit
+
