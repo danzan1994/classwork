@@ -1,5 +1,6 @@
-# Full-Stack Course Overview
 
+
+# Full-Stack Course Overview
 Some of the most important factors influencing how well and how quickly you learn something new include not only how you structure and sequence your learning, but also how you stay motivated and curious in the material, and how you leverage your prior knowledge to build new knowledge you can apply in different situations. Learning to become a web-developer is not easy and will take a lot of internal drive and outside support. To make that journey a bit easier, the course curriculum is structured and sequenced to keep motivation high and connections between concepts clear. Here’s how the class is broken down.
 
 Our first third of the course is focused on the front-end, the things you see and interact with in the browser, like when you click a ‘login’ button and a box pops up. Front-end languages, techniques, and libraries are foundational to being a full-stack developer, and are areas you’ll continuously build on top of throughout the course.
@@ -9,6 +10,10 @@ Our first third of the course is focused on the front-end, the things you see an
 - Have no more than 2 incomplete homeworks
 - Participate in all projects
 - Balance paid in full
+
+## Class Recordings:
+- 4/13 - class video recording - https://zoom.us/rec/share/ptN_cJLp9D9JZbfT9ljGYZULRIbdeaa8hiZM_KAJz0rEvZSYJfV-vTgvD3Zcpx8K (Access Password: f8.b!0u*)
+- 4/14 - class video recording - https://zoom.us/rec/share/-vJPN7vP9DlIXZHi10TEY_I8GYL6T6a81nRK-fEPmB6IiMwln4HZ3eBQxYFmzlUz (Access Password: i8.3NB^0)
 
 ## Project 1
 
