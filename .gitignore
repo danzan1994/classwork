@@ -5,8 +5,10 @@
 # Docs      http://git-scm.com/docs/gitignore
 # ===============================
 
-**/01-html-git-css/01-Activities/**/Solved/
-**/02-css-bootstrap/01-Activities/**/Solved/
+
+**/**/01-html-git-css/01-Activities/09-FloatLayout-Activity/Solved
+**/**/01-html-git-css/01-Activities/11-CSS-Positioned_Activity/Solved
+**/**/02-css-bootstrap/01-Activities/**/Solved
 
  *~
 .DS_Store
