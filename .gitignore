@@ -5,8 +5,10 @@
 # Docs      http://git-scm.com/docs/gitignore
 # ===============================
 
-**/**/02-css-bootstrap/01-Activities/**/Solved
-
- *~
+**/**/02-css-bootstrap/01-Activities/18-StudentMedia/Solved
+# **/**/02-css-bootstrap/01-Activities/**/Solved
+**/**/03-JavaScript/01-Activities/**/Solved
+**/**/03-JavaScript/02-Homework/Master
+*~
 .DS_Store
 *.code-workspace
