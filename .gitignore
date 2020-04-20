@@ -5,10 +5,28 @@
 # Docs      http://git-scm.com/docs/gitignore
 # ===============================
 
-**/**/02-css-bootstrap/01-Activities/18-StudentMedia/Solved
+
 # **/**/02-css-bootstrap/01-Activities/**/Solved
-**/**/03-JavaScript/01-Activities/**/Solved
+**/**/02-css-bootstrap/01-Activities/03-JavaScript/19-AnotherLoop/Solved
+**/**/03-JavaScript/01-Activities/19-AnotherLoop/Solved
+**/**/03-JavaScript/01-Activities/20-HardLoop/Solved
+**/**/03-JavaScript/01-Activities/21-RandomNumbers/Solved
+**/**/03-JavaScript/01-Activities/22-PseudoCode/Solved
+**/**/03-JavaScript/01-Activities/23-RPS-Coded/Solved
+**/**/03-JavaScript/01-Activities/24-Recap/Solved
+**/**/03-JavaScript/01-Activities/25-LoopTV/Solved
+**/**/03-JavaScript/01-Activities/27-MyFirstFunctions/Solved
+**/**/03-JavaScript/01-Activities/29-JoanOfArcArrays/Solved
+**/**/03-JavaScript/01-Activities/31-MyFirstObject/Solved
+**/**/03-JavaScript/01-Activities/32-CarGame/Solved
+**/**/03-JavaScript/01-Activities/33-QuestionGame/Solved
+**/**/03-JavaScript/01-Activities/31-MyFirstObject/Solved
+**/**/03-JavaScript/01-Activities/35-LocationRedirect/Solved
+
+
+# Homework:
 **/**/03-JavaScript/02-Homework/Master
+
 *~
 .DS_Store
 *.code-workspace
