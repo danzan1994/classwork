@@ -10,11 +10,14 @@ Our first third of the course is focused on the front-end, the things you see an
 - Balance paid in full
 
 ## Class Recordings:
+HTML/CSS:
 - 4/13 - class video recording - https://zoom.us/rec/share/ptN_cJLp9D9JZbfT9ljGYZULRIbdeaa8hiZM_KAJz0rEvZSYJfV-vTgvD3Zcpx8K (Access Password: f8.b!0u*)
 - 4/14 - class video recording - https://zoom.us/rec/share/-vJPN7vP9DlIXZHi10TEY_I8GYL6T6a81nRK-fEPmB6IiMwln4HZ3eBQxYFmzlUz (Access Password: i8.3NB^0)
 - 4/15 - class video recording - https://zoom.us/rec/share/9895DbKgr0dLW5H_s3PndoghBb_gX6a823Mc_PoFnx4vYGF2_YmCB3zKnQmGCSJC (Access Password: a7*Q.y%.)
 - 4/16 - class video classing - https://zoom.us/rec/share/pvZqA7-ozzhLTp3Os3z_Z6w6E6W7eaa80XQX_fMMyB12xOzFNng4B5d7fkO1mF3Y (Access Password: G6&!Q6=!)
 - 4/17 class video recording - https://zoom.us/rec/share/3NwrAOjMyDpOWInT5G3feZQ7DKHKX6a8hnJK-PNcmhxoKNW6tFzWJrhSVQWGCHIr (Access Password: Y0%1^2z3)
+
+JavaScript:
 - 4/20 class video recording - https://zoom.us/rec/share/v85lAYzQ7WBLWNLPq1reXKMwF4vmT6a8gHIX8_QJyUjK_y9Uc-BucsEJYwfkkOn5 Password: 2U?=!=As
 
 ## Project 1
